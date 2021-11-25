@@ -1,3 +1,2 @@
 # multibranch-pipeline-demo
-Jenkins Multibranch Pipeline Example Repo 
-Develop changes
+Jenkins Multibranch Pipeline Example Repo
